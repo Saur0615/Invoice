@@ -1,0 +1,25 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.color-blue {
+    color: blue;
+    font-family: initial;
+}
+
+.watermark {
+    background-image: url("./../img/Background.png");
+    background-repeat: no-repeat;
+    background-position-x: center;
+}
+
+.font-7 {
+    line-height: 1rem;
+    font-size: 12px;
+}
+
+.font-auto {
+    font-family: inherit;
+}
